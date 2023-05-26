@@ -1,0 +1,45 @@
+.center{
+    width: 232px;
+    display: block;
+    margin:10% 0% 0% 38%;
+    border: 5px solid white;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px black;
+}
+.container{
+    width: 50%;
+    display: block;
+    margin:1% 0% 0% 491px;
+}
+.input input{
+    padding: 9px;
+    width: 188px;
+    margin-left: 2px;
+    border: none;
+    outline: none;
+    color: white;
+    background-color: black;
+    border: 3px solid white;
+    border-radius: 3px;
+}
+
+.color{
+    background-color: black;
+    width: 45px;
+    height: 45px;
+    margin-top: 10px;
+    box-shadow: 2px 2px 2px black;
+    text-align: center;
+    border-radius: 3px;
+    border: 2px solid white;
+    color: white;
+    cursor: pointer;
+}
+.number{
+    margin-top: 3px;
+}
+.body{
+    background-color: gray;
+}
